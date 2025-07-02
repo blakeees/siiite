@@ -6,7 +6,7 @@ div.text-2xl.font-bold.text-foreground {
     color: transparent;
 
     /* 将 Logo 作为背景图片显示 */
-    background-image: url('/favicon.ico');
+    background-image: url('/logo.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
