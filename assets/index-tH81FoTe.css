@@ -13,6 +13,6 @@ div.text-2xl.font-bold.text-foreground {
 
     /* 设定 Logo 的显示尺寸 (您可以根据需要调整) */
     display: block;
-    width: 95px;
-    height: 95px;
+    width: 65px;
+    height: 65px;
 }
